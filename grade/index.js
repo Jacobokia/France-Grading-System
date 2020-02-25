@@ -19,5 +19,7 @@ mark5.isValidate();
 const student1 = new student(9090, "Doe", "Married", 30);
 student1.validate();
 
+module.exports = mark1;
+
 // const student2 = new student("Jane", "Doh", "Married", 28);
 // student2.validate();
