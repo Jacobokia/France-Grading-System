@@ -5,7 +5,7 @@ class student {
     this.status = status;
     this.age = age;
   }
-  validate = () => {
+  validate () {
     var valid = true;
 
     if (this.firstname == null) {

@@ -21,3 +21,4 @@ student1.validate();
 
 // const student2 = new student("Jane", "Doh", "Married", 28);
 // student2.validate();
+module.exports= mark1;
